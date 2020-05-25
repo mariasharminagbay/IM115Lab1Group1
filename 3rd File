@@ -1,9 +1,10 @@
-Web development is website building and maintaining; it's the work behind the scenes to make a 
-website look great, work fast and perform well with a seamless user experience.
+JavaScript is a scripting or programming language that enables you to introduce complex features on 
+web pages. If a web page does more than just sit down and display static information it allows you to 
+access timely content changes, interactive charts, animated 2D/3D graphics , video jukebox scrolling, 
+etc. This is the third layer of traditional web-technology layer cake, two of which (HTML and CSS)
 
-Software developers, or 'devs' use a number of coding languages to do this. The languages they use 
-depend on the types of tasks they perform, and the platforms they work on.
+HTML is the markup language we use for structuring and giving context to our web content, such as 
+specifying paragraphs, headings and data tables, or embedding images and videos in the website.
 
-Web development skills are worldwide in high demand and well-paid-making development a great career 
-option. It is one of the most readily accessible higher paying fields because you don't need a typical 
-university degree to graduate.
+CSS is a language of style rules that we use to add styling to our HTML content, such as setting 
+background colors and fonts, and multi-column layout of our content.
