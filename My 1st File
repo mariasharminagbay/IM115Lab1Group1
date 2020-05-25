@@ -1,0 +1,14 @@
+At GitHub's heart is Git, an open source project started by Linux creator Linus Torvalds.Git handles
+and stores project updateslike other version control systems. Although it is mostly used for code, Git
+might be used to manage any other file type, such as Word documents or Final Cut projects. 
+For every draft of a document think of it as a filing system.
+
+Some of Git’s predecessors, such as CVS and Subversion, have a central “repository” of all the files 
+associated with a project. When a developer makes changes, those changes are made directly to the 
+central repository. With distributed version control systems like Git, if you want to make a change 
+to a project you copy the whole repository to your own system.
+
+You make your changes on your local copy, then the changes to the central server are "checked in" 
+This encourages more granular changes to be shared, as you don't have to connect to the server every 
+time you change it.
+
