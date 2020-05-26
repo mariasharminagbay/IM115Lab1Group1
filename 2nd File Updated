@@ -1,0 +1,17 @@
+GitHub is a hosting service for the Git repository, but adds many of its own features. Although Git is 
+a command line tool, GitHub provides a graphical interface based on the Web. It also provides access
+ control and other shared features for each group, such as a wikis, and simple task management tools.
+
+GitHub's main feature is "forking"-transferring a file from the account of one user to another. 
+This allows you to take a project that you don't have access to in writing and to modify it under 
+your own account. If you are making changes that you would like to share, you may send the original 
+owner a notification called a "pull request." The user can then fuse the changes found in your repo 
+with the original repo with a click of a button.
+
+These three functions-fork, pull request and merge-make GitHub so powerful. If you wanted to contribute
+ to an open source project, you had to download the source code for the project manually, make your 
+ changes locally, create a list of changes called a "patch" and then email the patch to the project 
+ maintainer. The maintainer would then have to evaluate this patch, possibly sent by a total stranger, 
+ and decide whether to merge the changes.
+ 
+ I have Modified this File
